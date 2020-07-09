@@ -1,15 +1,15 @@
-### Hi there! I am Somoy 👋 
+### Hi there! I am Somoy 👋 🎆
 <br/>
 <br/>
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/959720256692708008/F46D369E23B735E4BF8244892C8F61CAE90BCE29/"></img>
+<br/>
+<b>I am an undergrad Computer Scientist and a Full-Stack Developer - with a Knack for Robotics 🤖, AI 🧠, Tampermonkey-UserScripts 🙊.  As for my personality, I absolutely love to take on
+  challenges and learn new things everyday!💡🌌</b>
 
-<b>I am an undergrad Computer Scientist, Full-Stack Developer - with a Knack for Robotics, Electronics, Tampermonkey-UserScripts and basically anything
-that is conceptually Awesome!</b>
-
-- 👯 I am currently looking for project ideas that include Browser Extensions, Tampermonkey-UserScripts and Chatbots. 
+- 👯 I am currently looking for project ideas that include Browser Extensions, Tampermonkey-UserScripts and Chatbots and anything that is Conceptually Awesome! 🚀🪐
 - 📫 Reach me at: Somoy97@gmail.com
-- ⚡ Fun fact: *Technology Facts and Stats. Over 3.8 billion people use the internet today, which is 40% of the world's population. 8 billion devices will be connected to the internet by 2020. More than 570 new websites are created every minute.*
+- ⚡ Fun fact: * Over 3.8 billion people use the internet today, which is 40% of the world's population. 8 billion devices will be connected to the internet by 2020. More than 570 new websites are created every minute.*
 
 <!--
 **Somoy73/Somoy73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
