@@ -1,8 +1,10 @@
 ### Hi there! I am Somoy 👋 
+<br/>
+<br/>
 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/959720256692708008/F46D369E23B735E4BF8244892C8F61CAE90BCE29/"></img>
 
-<b>I am a beginner Full-Stack Developer with a Knack for Robotics, Electronics, Tampermonkey-UserScripts and basically anything
+<b>I am an undergrad Computer Scientist, Full-Stack Developer - with a Knack for Robotics, Electronics, Tampermonkey-UserScripts and basically anything
 that is conceptually Awesome!</b>
 
 - 👯 I am currently looking for project ideas that include Browser Extensions, Tampermonkey-UserScripts and Chatbots. 
