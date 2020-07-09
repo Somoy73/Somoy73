@@ -10,7 +10,8 @@
 <b>As for my personality, I absolutely love to take on challenges and learn new things everyday!💡🌌</b>
 <br/><br/>
 - 👯 I am currently looking for project ideas that include Browser Extensions, Tampermonkey-UserScripts and Chatbots and anything that is Conceptually Awesome! 🚀🪐
-- 📫 Reach me at: Somoy97@gmail.com
+<br/>
+- 📫 Reach me at: Somoy97@gmail.com <br/>
 - ⚡ Fun fact: *Over 3.8 billion people use the internet today, which is 40% of the world's population. 8 billion devices will be connected to the internet by 2020. More than 570 new websites are created every minute.*
 
 <!--
