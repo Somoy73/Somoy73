@@ -4,7 +4,7 @@
 <img src="https://steamuserimages-a.akamaihd.net/ugc/959720256692708008/F46D369E23B735E4BF8244892C8F61CAE90BCE29/"></img>
 
 <br/>
-<b>I am an undergrad Computer Scientist and a Full-Stack Developer - with a Knack for Robotics 🤖, AI 🧠, Tampermonkey-UserScripts 🙊.</b>
+<b>I am an undergrad Computer Scientist and a Full-Stack Developer - with a Knack for Robotics 🤖 , AI 🧠 and Tampermonkey-UserScripts 🙊 .</b>
 <br/>
 <b>As for my personality, I absolutely love to take on challenges and learn new things everyday!💡🌌</b>
 <br/><br/>
