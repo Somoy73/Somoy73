@@ -12,7 +12,7 @@
 <br/>
 - 📫 Reach me at: <a href="mailto:Somoy97@gmail.com">Somoy97@gmail.com</a>
 <br/>
-- ⚡ Oh and before we go a Fun fact: *Over 3.8 billion people use the internet today, which is 40% of the world's population. 8 billion devices will be connected to the internet by 2020. More than 570 new websites are created every minute.*
+- ⚡ Oh and before we go a Fun fact: Over 3.8 billion people use the internet today, which is 40% of the world's population. Not only that, more than 570 new websites are created every minute!
 </b>
 <!--
 **Somoy73/Somoy73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
