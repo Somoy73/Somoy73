@@ -7,6 +7,11 @@
 <br/>
 <b>I absolutely love to take on challenges and learn new things everyday!💡🌌 , What about you ?</b>
 <br/><br/>
+<b> I am currently looking for contributors on these Projects - </b>
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**Voice-Slider**](https://github.com/Somoy73/Voice-Slider) | [![GitHub issues](https://img.shields.io/github/issues/Somoy73/Voice-Slider?color=green&logo=github&style=flat)](https://github.com/Somoy73/Voice-Slider/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?style=flat&logo=github)](https://github.com/Somoy73/Voice-Slider/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Somoy73/Voice-Slider?style=flat&color=critical&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls?q=is%3Apr+is%3Aclosed)  |
 <b>
 - 👯 I am currently looking for project ideas that include Browser Extensions, Tampermonkey-UserScripts and Chatbots and anything that is Conceptually Awesome! 🚀🪐
 <br/>
