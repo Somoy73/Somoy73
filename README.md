@@ -5,7 +5,7 @@
 <br/>
 <b>I am an undergrad Computer Scientist and a Full-Stack Developer - with a Knack for Algorightms 💡, Robotics 🤖 , AI 🧠 and Tampermonkey-UserScripts 🙊 .</b>
 <br/>
-<b>As for my personality, I absolutely love to take on challenges and learn new things everyday!💡🌌</b>
+<b>I absolutely love to take on challenges and learn new things everyday!💡🌌 , What about you ?</b>
 <br/><br/>
 <b>
 - 👯 I am currently looking for project ideas that include Browser Extensions, Tampermonkey-UserScripts and Chatbots and anything that is Conceptually Awesome! 🚀🪐
