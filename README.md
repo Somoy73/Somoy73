@@ -1,11 +1,11 @@
 ### Hi there! I am Somoy 👋 🎆
 <br/>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/959720256692708008/F46D369E23B735E4BF8244892C8F61CAE90BCE29/"></img>
+
 
 <br/>
 <b>I am a CS Student and a Full-Stack Developer - with a Knack for Algorightms 💡, Robotics 🤖 , AI 🧠 and Tampermonkey-UserScripts 🙊 </b>
 <br/>
-<b>I absolutely love to take on challenges and learn new things everyday!💡🌌 , What about you ?</b>
+<b>I absolutely love to take on challenges and learn new things everyday.</b>
 <br/><br/>
 <b> I am currently looking for contributors on these Projects - </b>
 
@@ -17,8 +17,7 @@
 <br/>
 - 📫 Reach me at: <a href="mailto:Somoy97@gmail.com">Somoy97@gmail.com</a>
 <br/>
-- ⚡ Oh and before we go a Fun fact: Did you know? More than 570 new websites are created every minute!
-</b>
+
 <!--
 **Somoy73/Somoy73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
