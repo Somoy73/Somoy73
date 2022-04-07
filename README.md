@@ -17,7 +17,7 @@
 -->
 - 👯 I am also looking for project ideas that include Browser Extensions, Tampermonkey-UserScripts and Chatbots and anything that is Conceptually Awesome! 🚀🪐
 <br/>
-- 📫 Reach me at: <a href="https://somoys.netlify.app">Personal Website</a>
+- 📫 Reach me at: <a href="https://somoy.me">Personal Website</a>
 <br/>
 
 <!--
