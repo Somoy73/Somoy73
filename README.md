@@ -1,9 +1,9 @@
-### Hi there! I am Somoy 👋 🎆
+### Hi there!
 <br/>
 
 
 <br/>
-<b>I am a CS Student and a Full-Stack Developer - with a Knack for Algorightms 💡, Robotics 🤖 , AI 🧠 and Tampermonkey-UserScripts </b>
+<b>I am a Software Engineer - with a Knack for Algorightms 💡, Robotics 🤖 , AI 🧠 and a passion for research </b>
 <br/>
 <b>I absolutely love to take on challenges and learn new things everyday.</b>
 <br/><br/>
