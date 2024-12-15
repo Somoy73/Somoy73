@@ -11,7 +11,7 @@
 
 **I am someone with a knack for science and arts and a passion for research.**
 
-I am also looking for project ideas that include Object Detection, Script Automation, Transformer-Chatbots and anything that is Conceptually Awesome! 🚀🪐
+I am also looking for project ideas that include Explainable AI, AI Alignment, Automation and Optimization, and anything that is Conceptually Awesome! 🚀🪐
 
 
 - 📫 Reach me at: <a href="https://somoy.me">Personal Website</a>
